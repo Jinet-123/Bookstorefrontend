@@ -105,17 +105,6 @@ npm start
 
 ---
 
-### 4. Environment Variables
-
-Create a `.env` file in the backend and add:
-
-```
-MONGO_URI=mongodb+srv://jinet:jinetkl@cluster0.i2o2x.mongodb.net/Bookstore?appName=Cluster0
-STRIPE_SECRET_KEY=pk_test_51ScgVUAtPzzowVVGVk0YyXaf7AppgzfERQTt72lYwxrvBAfyrPemnYxSDnR1L0uETiC7zjEh4iwOhCowAonX3BDH00olrAlljh
-```
-
----
-
 ## 🔄 Application Flow
 
 1. User interacts with the frontend UI
